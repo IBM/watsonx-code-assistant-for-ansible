@@ -169,11 +169,10 @@ Model Customization is done using **Prompt Tuning:** Empowers organizations to t
 **NOTE:** _You don't need to be a data scientist to effectively use watsonx Code Assistant. The UI provides helpful contextual information and guidance along the way._
 
 
-## **Question❓ Bug(issue) 🐛 or New Features(Contribute)** 🙋‍♂️
+## **Questions❓ or issues with the documentation?** 🙋‍♂️
 
 <!-- Questions can be useful but optional, this gives you a place to say, "This is how to contact this project maintainers or create PRs -->
-If you have any questions, issues or feature requests you can create a new issue [**> Click Here <**](https://github.com/IBM/watsonx-code-assistant-for-ansible/issues/)
-
+If you have any questions or issues with the documentation, or if there's something you'd like to add here then you can create a new issue [**> Click Here <**](https://github.com/IBM/watsonx-code-assistant-for-ansible/issues/)
 
 ## 📝 **License** 📝
 [Apache License 2.0](http://www.apache.org/licenses/)
